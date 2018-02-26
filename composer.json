@@ -10,7 +10,7 @@
     "require": {
         "catfan/medoo": "^1.5"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
 		"psr-4": {
 			"HEXD\\": "src/"
