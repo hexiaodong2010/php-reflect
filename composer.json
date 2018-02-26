@@ -1,0 +1,17 @@
+{
+    "name": "administrator/php-reflect",
+    "authors": [
+        {
+            "name": "hexiaodong",
+            "email": "hexd@baicaiqiche.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.5"
+    },
+    "autoload": {
+		"psr-4": {
+			"HEXD\\": "src/"
+		}
+	}
+}
